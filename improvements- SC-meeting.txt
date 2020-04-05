@@ -1,0 +1,22 @@
+- run with all 2000 genes and check accuracy -improvement compared SMO  
+
+- binary SMO - colon cancer 
+
+- further improve : 
+   -ANOVA to reduce feature size
+   -detect stagnation , inject changes -- restrict no of features (eg, less than 50)( enhancement) 
+   -have diffrent combo and compare 
+
+
+- find diff with work and others , binary optimizations
+- demo(show comparisions on results , showcase runs )
+
+-novelty , explain well , have knowledge 
+
+-report writing 
+
+-ppt compare
+
+-28
+
+
